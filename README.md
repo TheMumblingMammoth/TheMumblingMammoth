@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheMumblingMammoth
 - 👀 I’m interested in game developing, distributed computation, and simulation modeling
 - 🌱 I’m currently working on multiagent simulation modeling system on Unity
-- 📫 How to reach me anton.mamonov.golohvastogo@mail.ru
+- 📫 You can reach me by **the_mumbling_mammoth@mail.ru** for scientific or gamedev purposes
 
 <!---
 TheMumblingMammoth/TheMumblingMammoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
